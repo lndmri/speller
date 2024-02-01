@@ -43,7 +43,7 @@ unsigned int hash(const char *word)
 {
     // TODO: Improve this hash function
 
-    // using sum of ascii values to imporve function
+    // using sum of ascii values to improve function
     unsigned int hash_val = 0;
     unsigned int prime = 33;
     int i = 0;
