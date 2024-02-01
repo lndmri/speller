@@ -1,6 +1,6 @@
 # speller
 
-*This is my solution of the CS50 speller problem set, using C. https://cs50.harvard.edu/x/2023/psets/5/speller/ This problem set required implemnetation of a program which spell-checks a file (from a list of words, i.e. the dictionaries provided by CS50). NOTE: Copying this data and using it for your submission will breach the academic honesty https://cs50.harvard.edu/x/2023/honesty/. I would recommend trying it yourself before consulting the solution here. I can assure you it is worth trying it!
+* This is my solution of the CS50 speller problem set, using C. https://cs50.harvard.edu/x/2023/psets/5/speller/ This problem set required implemnetation of a program which spell-checks a file (from a list of words, i.e. the dictionaries provided by CS50). NOTE: Copying this data and using it for your submission will breach the academic honesty https://cs50.harvard.edu/x/2023/honesty/. I would recommend trying it yourself before consulting the solution here. I can assure you it is worth trying it!
 
 * Speller.c, implements a program that’s designed to spell-check a file after loading a dictionary of words from disk into memory. 
 * That dictionary, meanwhile, is implemented in a file called dictionary.c.
@@ -19,3 +19,5 @@
 * speller [dictionary] text -> these are command line arguments
 * example: ./speller dictionaries/large text
 
+# Additional info
+# For Full Problem presentation see https://cs50.harvard.edu/x/2023/psets/5/speller/
