@@ -16,7 +16,7 @@
 
 
 # Usage: 
-* speller [dictionary] text -> these are command line arguments
+* speller [dictionary] textfile -> these are command line arguments
 * example: ./speller dictionaries/large text
 
 # Additional info
