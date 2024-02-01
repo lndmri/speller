@@ -20,4 +20,4 @@
 * example: ./speller dictionaries/large text
 
 # Additional info
-# For Full Problem presentation see https://cs50.harvard.edu/x/2023/psets/5/speller/
+* For Full Problem presentation see https://cs50.harvard.edu/x/2023/psets/5/speller/
