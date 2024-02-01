@@ -19,5 +19,22 @@
 * speller [dictionary] textfile -> these are command line arguments
 * example: ./speller dictionaries/large text
 
+# Output
+* Program returns: All the words that are mistakenly written in the text file that is passed as argument.
+
+- WORDS MISSPELLED
+- WORDS IN DICTIONARY
+- WORDS IN TEXT   
+- TIME IN load         
+- TIME IN check        
+- TIME IN size         
+- TIME IN unload       
+- TIME IN TOTAL       
+
+* Example  output when running the following line:  ./speller dictionaries/large texts/frankenstein.txt 
+![image](https://github.com/lndmri/speller/assets/69853165/b7eba2d2-9eef-4948-8160-2f6017b2f2e7)
+
+
+
 # Additional info
 * For Full Problem presentation see https://cs50.harvard.edu/x/2023/psets/5/speller/
